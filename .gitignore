@@ -1,0 +1,8 @@
+__pycache__/
+wandb/
+checkpoints/*.pth
+data/*.csv
+data/parrot/*.jpg
+data/narwhal/*.jpg
+data/axolotl/*.jpg
+.venv/
